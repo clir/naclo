@@ -33,3 +33,5 @@ The [North American Computational Linguistics Olympiad](http://www.nacloweb.org)
 * [Practice problems](http://www.nacloweb.org/practice.php).
 * [Past olympiads](http://www.nacloweb.org/past_olympiads.php).
 * [More resources](http://www.nacloweb.org/resources.php).
+
+<p align="center"><img src="https://dl.dropboxusercontent.com/u/15060914/img/clir-hz-280bk.jpg"/></p>
