@@ -9,7 +9,7 @@ The [North American Computational Linguistics Olympiad](http://www.nacloweb.org)
 
 ## Open Round
 * This round is open to all interested middle school and high school students; its purpose is to identify strong contestants who will advance to the Invitational Round.
-* Date: January 29, 2015.
+* Date: January 29 (Thurs), 2015.
 * Location: [Emory University](http://emory.edu).
 * Schedule: _TBA_.
 
@@ -34,4 +34,4 @@ The [North American Computational Linguistics Olympiad](http://www.nacloweb.org)
 * [Past olympiads](http://www.nacloweb.org/past_olympiads.php).
 * [More resources](http://www.nacloweb.org/resources.php).
 
-<p align="center"><img src="https://dl.dropboxusercontent.com/u/15060914/img/clir-hz-280bk.jpg"/></p>
+<p align="center"><img src="http://mathcs.emory.edu/~choi/img/clir-hz-280bk.jpg"/></p>
